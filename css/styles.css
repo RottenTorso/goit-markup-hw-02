@@ -19,7 +19,6 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
-    transition: color 0.3s;
     color: #2e2f42;
 }
 
@@ -42,7 +41,6 @@
     letter-spacing: 0.02em;
     color: #434455;
     text-decoration: none;
-    transition: color 0.3s;
 }
 .contact-first-item .contact-link:hover {
     color: #404bbf;
