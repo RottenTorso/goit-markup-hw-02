@@ -23,13 +23,17 @@
     color: #2e2f42;
 }
 
-.nav-link:hover, .nav-link-studio:focus {
-    color: #404BBF;
+.nav-item:first-child .nav-link:hover {
+    color: #404bbf;
+}
+  
+.nav-item:first-child .nav-link:focus {
+    color: #404bbf;
 }
 
 /* address */
 .contact-info {
-    font-style: normal; /* Remove italic */
+    font-style: normal;
 }
 
 .contact-link {
@@ -40,7 +44,11 @@
     text-decoration: none;
     transition: color 0.3s;
 }
-.contact-link:hover, .contact-link:focus {
+.contact-item:first-child .contact-link:hover {
+    color: #404bbf;
+}
+  
+.contact-item:first-child .contact-link:focus {
     color: #404bbf;
 }
 
