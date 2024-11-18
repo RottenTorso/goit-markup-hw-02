@@ -13,19 +13,6 @@
     color: #2e2f42;
 }
 
-.nav-link-studio {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-decoration: none;
-    transition: color 0.3s;
-    color: #2e2f42;
-}
-.nav-link-studio:hover, .nav-link-studio:focus {
-    color: #404BBF;
-}
-
 .nav-link {
     font-size: 16px;
     font-weight: 500;
