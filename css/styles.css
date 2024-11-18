@@ -23,11 +23,11 @@
     color: #2e2f42;
 }
 
-.nav-item:first-child .nav-link:hover {
+.nav-first-item .nav-link:hover {
     color: #404bbf;
 }
   
-.nav-item:first-child .nav-link:focus {
+.nav-first-item .nav-link:focus {
     color: #404bbf;
 }
 
@@ -44,11 +44,11 @@
     text-decoration: none;
     transition: color 0.3s;
 }
-.contact-item:first-child .contact-link:hover {
+.contact-first-item .contact-link:hover {
     color: #404bbf;
 }
   
-.contact-item:first-child .contact-link:focus {
+.contact-first-item .contact-link:focus {
     color: #404bbf;
 }
 
