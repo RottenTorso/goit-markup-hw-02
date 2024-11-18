@@ -1,0 +1,137 @@
+/* header */
+
+.logo {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+.logo .web {
+    color: #4D5AE5;
+}
+.logo .studio {
+    color: #2E2F42;
+}
+
+.nav-list {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+}
+.nav-list a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.nav-list a:hover, .nav-list a:focus {
+    color: #404BBF;
+}
+.contact-list {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.contact-list a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+.contact-list a:hover, .contact-list a:focus {
+    color: #404BBF;
+}
+
+/* hero section */
+
+.hero-title {
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+
+.btn {
+    background: #4D5AE5;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.btn:active {
+    background: #404BBF;
+}
+
+/* Features Section */
+.features h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.features p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* Team Section */
+.team h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.team h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.team p {
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* Portfolio Section */
+.portfolio h2 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.portfolio h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+}
+
+.portfolio p {
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* footer */
+ .footer p {
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
